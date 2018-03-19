@@ -1,0 +1,17 @@
+.navbar{
+    text-transform: capitalize;
+    padding-top: 2px;
+    padding-bottom: 2px
+}
+
+.middle{
+    text-align: center;
+}
+
+.tablesize{
+    width: 60%;
+}
+
+#map{
+    height: 100%;
+}
